@@ -8,6 +8,7 @@ function App() {
 			<header className="App-header">
 				<img src={logo} className="App-logo" alt="logo" />
 				<h1>Esta es mi primera aplicacion usando React</h1>
+				<h1>Actualizacion numero 1</h1>
 				<a
 					className="App-link"
 					href="https://reactjs.org"
